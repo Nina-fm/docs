@@ -1,1 +1,2 @@
-# docs
+# Nina.fm Architecture Documentation
+
